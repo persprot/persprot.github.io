@@ -1,0 +1,125 @@
+---
+---
+
+@import "minima";
+
+@font-face {
+	font-family: "titre";
+	src: url('{{site.url}}/assets/aliensandcows.ttf');
+}
+
+h1 {
+  color: #028EB4;
+}
+
+.titre-autres {
+  margin-top: 2em;
+  border-top: 1px solid #ddd;
+  padding-top: 1em;
+}
+
+.site-header {
+  border-top: 5px solid #028EB4;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+
+/* Home */
+
+.home-grande-image {
+  background-size: cover;
+  background-image: url('{{ site.url }}/images/night_sky_milky_way.jpg');
+  padding: 0em;
+  margin-bottom: 2em;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-titre {
+  margin: 4em;
+  background-color: #00a2d2;
+  padding: 2em;
+  color: black;
+  text-transform: uppercase;
+  font-stretch: ultra-condensed;
+  display: inline-block;
+  text-align: center;
+
+  h1 {
+    font-family: "titre";
+    font-size: 4em;
+    line-height: 1em;
+    color: black;
+  }
+
+}
+
+.home-contenu {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+  
+  p { text-align: justify; }
+}
+
+.home-gauche {
+  width: 48%;
+  float: left;
+}
+
+.home-droite {
+  width: 48%;
+  margin-left: 52%;
+  h3 {margin:0}
+}
+
+.home-sommaire-numero {
+  margin: 0;
+  font-style: italic;
+  li { display: inline;}
+  li:not(:first-child):before {
+    content: " // ";
+  }
+}
+
+
+/* Numero */
+
+.numero-numero {
+  font-size: 0.7em;
+  margin-bottom: 0.5em;
+}
+
+.numero-date {
+  font-size: 1.2em;
+  color: #888;
+}
+
+.sommaire-type {
+  color: #888;
+}
+
+ul.sommaire {
+  margin: 20px;
+  li {
+    margin: 25px 0;
+    list-style-type: none;
+    h3 {
+      margin: 0px;
+      font-size: 1.3em;
+    }
+  }
+}
+
+/* Journée */
+
+.journee-titre1 {
+  font-size: 0.7em;
+  margin-bottom: 0.5em;
+}
+
+.journee-contenu {
+  p { margin-left: 20px; }
+  h2 { margin-left: 20px; font-size: 1.2em; font-weight: bold; }
+}

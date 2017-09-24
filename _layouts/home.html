@@ -1,0 +1,48 @@
+---
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="home-grande-image">
+      <div class="home-titre">
+        <h1>Perspectives<br>protestantes</h1>
+        <p>- Société, théologie et culture -</p>
+      </div>
+    </div>
+
+    <div class="home-contenu">
+
+      <div class="home-gauche">
+        {{ content }}
+      </div>
+
+      <div class="home-droite">
+        <h2>Numéros</h2>
+        <ul class="post-list">
+          {% for numero in site.numeros reversed %}
+            <li>
+              <span class="post-meta">{{ numero.mois_annee }}</span>
+              <h3><a href="{{ numero.url | relative_url }}">{{ numero.title | escape }}</a></h3>
+              <ul class="home-sommaire-numero">
+                {% for article in numero.sommaire %}
+                  <li>{{ article.title }}</li>
+                {% endfor %}
+            </ul>
+            </li>
+          {% endfor %}
+        </ul>    
+      </div>
+
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
