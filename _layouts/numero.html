@@ -18,9 +18,15 @@ layout: default
     </p>
   </header>
 
+  {% if page.image %}
   <div style="float:right">
-  <img src="{{ site.url }}{{ page.image }}"/>
+    <img src="{{ site.url }}{{ page.image }}"/>
   </div>
+  {% endif %}
+
+  {% if page.pdf %}
+    <a href="{{ site.url }}{{ page.pdf }}"/><div class="download">PDF</div></a>
+  {% endif %}
 
   <h2>Sommaire</h2>
   <ul class="sommaire">

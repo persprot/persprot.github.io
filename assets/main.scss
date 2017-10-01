@@ -116,6 +116,23 @@ ul.sommaire {
   }
 }
 
+.download {
+  display: inline-block;
+  color: #fff;
+  background-color: #028EB4;
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border-width: 0;
+  border-radius: 4px;
+}
+
+.download:hover {
+  background-color: #00a2d2;
+}
+
 /* Journée */
 
 .journee-titre1 {
