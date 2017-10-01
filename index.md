@@ -17,4 +17,4 @@ Vos suggestions pour améliorer cete formule ou pour de nouveaux thèmes à trai
 
 ## Les journées d'étude de Perspectives protestantes
 Une journée de reflexion est organisée chaque année au mois d'avril. Elle est l'occasion de rencontrer d'autres lecteurs de votre revue, d'échanger avec l'équipe de rédaction, et bien sûr de profiter de conférences de qualité sur le thème de l'année.
-En 2017, le thème de cette journée était ["Dans les impasses, quelle espérance ?"]({{site.url}}/journees/2017.html).
+En 2017, le thème de cette journée était ["Dans les impasses, quelle espérance&nbsp;?"]({{site.url}}/journees/2017.html).

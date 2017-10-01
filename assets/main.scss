@@ -27,8 +27,16 @@ h1 {
   color: #888;
 }
 
+.post-content p {
+  text-align: justify;
+}
+
 
 /* Home */
+
+.home-header .site-header {
+  border-bottom: none;
+}
 
 .home-grande-image {
   background-size: cover;
