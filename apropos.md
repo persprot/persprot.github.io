@@ -16,7 +16,7 @@ perspectives.protestantes@gmail.com
 ### Pour vous abonner, abonner votre paroisse, vos amis, etc.
 
 Numéro de compte Postfinance : 14-547590-4<br>
-IBAN : CH75 0900 0000 1415 7590 4<br>
+IBAN : CH75 0900 0000 1454 7590 4<br>
 BIC : POFICHBEXXX<br>
 
 * Abonnement seul : 15 CHF
