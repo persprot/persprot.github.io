@@ -24,3 +24,9 @@ BIC : POFICHBEXXX<br>
 * Abonnement et cotisation de soutien : 50 CHF
 
 (la cotisation finance la journée annuelle d'études)
+
+## Comité de rédaction
+André Assimacopoulos, France Boosuet, Jean-Jacques de Rham, Sandrine Landeau, Laurence Mottier, Hyonou Paik, Julie Paik, Jean-Yves Rémond, Bernard Rordorf, Elisabeth Schenker, Alexandre Winter
+
+## Webmaster
+Sandrine Landeau
