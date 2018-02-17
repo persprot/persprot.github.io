@@ -2,11 +2,14 @@
 layout: home
 ---
 
-## *Perspectives protestantes* a (enfin) un site web&nbsp;!
-
-Pour ses trois ans, notre jeune revue, s'offre une entrée sur la toile, avec un site web fonctionnel dont vous pouvez désormais profiter. Vous y trouverez les sommaires et éditoriaux de tous nos numéros, et - pour les plus anciens - vous pouvez même les télécharger. Vous y trouverez aussi les programmes de nos journées, journées anciennes pour l'instant, et bientôt le programme de la journée 2018. Enfin, nos différentes coordonnées vous permettront de nous faire part de vos remarques, suggestions et questions, tant sur la revue que sur le site web, et de vous abonner. 
-
-N'hésitez donc pas à vous y promener, et surtout à faire connaître cette nouvelle adresse du web protestant ! 
+## *Perspectives protestantes* vous invite à sa journée d'étude 2018
+NOtre journée d'étude 2018 se précise. Elle se tiendra le samedi 21 avril prochain, de 9h à 13h, à la maison de paroisse St Gervais (11 rue Dassier à Genève), autour du thème "Changer&nbsp;: le désirable et le nécessaire".
+Vous y entendrez deux conférences qui s'annoncent passionnantes&nbsp;: 
+Dominique Bourg (UNIL)&nbsp;: En route pour la reconversion écologique
+Sarah Stewart-Kroeker (UNIGE)&nbsp;: Se changer en trois images&nbsp;: le combat, la périgrination et le grand saut.
+Vous aurez également d'interargir avec les intervenants pendant les moments de débat. Nous vous attendons nombreux à cette journée&nbsp;!
+Le programme définitif sera près dans les prochains jours et le n°7 est, en préparation, vous introduira au thème de la journée à travers des articles de Bernard Rordorf, Jean Zumstein et Lauriane Savoy.
+ 
 
 ## Qui est *Perspectives protestantes*&nbsp;?
 Notre, votre, revue est née en 2015. A l'origine du projet se trouve une équipe d'anciens étudiant.e.s des facultés de théologie romandes, de pasteurs des Eglises de Genève, de Neuchâtel et de Vaud, qui souhaitaient voir occupé l'espace laissé vacant par les *Cahiers protestants* et le *Bulletin du Centre protestant d'études*. Il s'agit pour nous de mener une réflexion théologique pour le peuple de l'Eglise, en débat avec la culture et les problèmes de société. 
@@ -17,4 +20,4 @@ Vos suggestions pour améliorer cette formule ou pour de nouveaux thèmes à tra
 
 ## Les journées d'étude de Perspectives protestantes
 Une journée de reflexion est organisée chaque année au mois d'avril. Elle est l'occasion de rencontrer d'autres lecteurs de votre revue, d'échanger avec l'équipe de rédaction, et bien sûr de profiter de conférences de qualité sur le thème de l'année.
-En 2017, le thème de cette journée était ["Dans les impasses, quelle espérance&nbsp;?"]({{site.url}}/journees/2017.html).
+En 2018, le thème de cette journée, programmée le samdei 21 avril, sera "Changer&nbsp;: le nécessaire et le désirable".
