@@ -3,11 +3,11 @@ layout: home
 ---
 
 ## *Perspectives protestantes* vous invite à sa journée d'étude 2019
-Notre journée d'étude 2019 se tiendra le samedi 11 mai prochain, de 9h à 13h, au temple de St Gervais (12 rue des Terreaux-du-Temple à Genève), autour de la sexualité.
+Notre journée d'étude 2019 se tiendra le samedi 11 mai prochain, de 9h à 13h, au temple de St Gervais (12 rue des Terreaux-du-Temple à Genève). Elle a pour titre : Le sexe et l'autre.
 
-Vous y entendrez deux orateurs : Jean-Daniel Macchi, professeur d'Ancien Testament à la Faculté autonome de théologie de Genève, et Claude Habib, professeure de littérature française à la Sorbonne. Vous aurez également l'occasion d'interargir avec les intervenants pendant les moments de débat. Nous vous attendons nombreux à cette journée&nbsp;!
+Vous y entendrez trois orateurs : José Morel Cinq-Mars, psychologue engagée dans la protection de l'enfance, Jean-Daniel Macchi, professeur d'Ancien Testament à la Faculté autonome de théologie de Genève, et Claude Habib, professeure de littérature française à la Sorbonne. Vous aurez également l'occasion d'interargir avec les intervenants pendant les moments de débat. Nous vous attendons nombreux à cette journée&nbsp;!
 
-Le programme définitif sera bientôt disponible et le n°9, en préparation, vous introduira au thème de la journée à travers des articles de Ghislain Waterlot, Elisabeth Schenker, Bernard Rordorf, et Sandrine Landeau.
+Le programme définitif se trouve ici et le n°9, à paraître d'ici quelques jours, vous introduira au thème de la journée à travers des articles de Ghislain Waterlot, Elisabeth Schenker, Bernard Rordorf, Jean-Yves Rémond et Sandrine Landeau.
  
 
 ## Qui est *Perspectives protestantes*&nbsp;?
