@@ -2,6 +2,10 @@
 layout: home
 ---
 
+## Une perspective à la foi
+L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes pour vous proposer une série mensuelle, intitulée *Une perspective à la foi*, destinée à soutenir la réflexion théologique des membres et collaborateurs de l'EPG, et plus largement de toute personne intéressée par les questions qui seront traitées.
+Le premier texte "Croire ou penser, faut-il choisir ?" paraîtra début octobre.
+
 ## Journée d'étude 2019
 Notre journée d'étude 2019 s'est tenue le samedi 11 mai dernier, avec pour titre : Le sexe et l'autre.
 
@@ -14,7 +18,4 @@ Notre, votre, revue est née en 2015. A l'origine du projet se trouve une équip
 Nous travaillons chaque année sur un thème différent (Le corps en 2015, La Parole en 2016, l'Espérance en 2017, le changement en 2018), introduit par un numéro qui paraît au début du printemps, traité plus à fond par une journée d'étude qui se tient en principe le dernier week-end d'avril, dont les conférences sont reprises dans le numéro d'automne.
 
 Vos suggestions pour améliorer cette formule ou pour de nouveaux thèmes à traiter dans les années à venir sont les bienvenues ! 
-
-## Les journées d'étude de Perspectives protestantes
-Une journée de reflexion est organisée chaque année au mois d'avril. Elle est l'occasion de rencontrer d'autres lecteurs de votre revue, d'échanger avec l'équipe de rédaction, et bien sûr de profiter de conférences de qualité sur le thème de l'année.
 
