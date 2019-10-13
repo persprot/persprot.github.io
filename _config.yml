@@ -37,6 +37,8 @@ collections:
     output: true
   journees:
     output: true
+  articles:
+    output: true
 
 defaults:
   - scope:
@@ -49,6 +51,11 @@ defaults:
       type: journees
     values:
       layout: journee
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: articles
 
 lang: fr
 

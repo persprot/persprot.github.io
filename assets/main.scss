@@ -160,3 +160,17 @@ ul.sommaire {
   p { margin-left: 20px; }
   h2 { margin-left: 20px; font-size: 1.2em; font-weight: bold; }
 }
+
+/* Articles */
+
+.perspective_a_la_foi-contexte {
+  padding: 20px 20px;
+  /*border-top: 1px solid #ddd;*/
+  background: #eee;
+  text-align: justify;
+}
+
+.author {
+  font-weight: bold;
+  margin: 20px 20px 30px;
+}

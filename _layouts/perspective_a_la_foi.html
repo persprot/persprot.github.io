@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/Article">
+
+  <header class="post-header">
+    <h1 class="post-title">
+      <span itemprop="name headline">{{ page.title | escape }}</span>
+    </h1>
+    <p class="numero-date">
+      <time itemprop="datePublished">
+        {{ page.mois_annee | capitalize }}
+      </time>
+    </p>
+  </header>
+
+  <div itemprop="isPartOf" itemscope itemtype="http://schema.org/ArticleBody">
+    <div class="post-content" itemprop="text">
+      {{ content }}
+    </div>
+  <div>
+
+  <p itemprop="author" class="author">{{ page.author }}</p>
+
+  <div class="perspective_a_la_foi-contexte">
+      L’Église Protestante de Genève (EPG) s’associe à Perspectives protestantes
+      pour vous proposer une série mensuelle, intitulée Une perspective à la foi,
+      destinée à soutenir la réflexion théologique des membres et collaborateurs
+      de l’EPG, et plus largement de toute personne intéressée par les questions
+      qui seront traitées.
+  </div>
+
+</article>
