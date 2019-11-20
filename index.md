@@ -5,7 +5,8 @@ layout: home
 ## Une perspective à la foi
 L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes pour vous proposer une série mensuelle, intitulée *Une perspective à la foi*, destinée à soutenir la réflexion théologique des membres et collaborateurs de l'EPG, et plus largement de toute personne intéressée par les questions qui seront traitées. Les textes se trouvent ici : 
 
-N°1 (octobre 2019) : [Croire ou penser, faut-il choisir ?]({{site.url}}/articles/croire_ou_penser.html) (par Sandrine Landeau)
+* N°1 (octobre 2019) : [Croire ou penser, faut-il choisir ?]({{site.url}}/articles/croire_ou_penser.html) (par Sandrine Landeau)
+* N°2 (novembre 2019) : [Tu aimeras ton prochain... même s'il est étranger ?]({{site.url}}/articles/tu_aimeras_ton_prochain.html) (par Romain Gavache et Sandrine Landeau)
 
 ## Journée d'étude 2019
 Notre journée d'étude 2019 s'est tenue le samedi 11 mai dernier, avec pour titre : Le sexe et l'autre.
