@@ -1,6 +1,6 @@
 ---
 title: Tu aimeras ton prochain... même s'il est étranger ?
-author: Sandrine Landeau
+author: Romain Gavache et Sandrine Landeau
 date: 2019-11-01
 mois_annee: novembre 2019
 categories: [perspective_a_la_foi]
