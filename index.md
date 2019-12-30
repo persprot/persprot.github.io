@@ -7,7 +7,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 
 * N°1 (octobre 2019) : [Croire ou penser, faut-il choisir ?]({{site.url}}/articles/croire_ou_penser.html) (par Sandrine Landeau)
 * N°2 (novembre 2019) : [Tu aimeras ton prochain... même s'il est étranger ?]({{site.url}}/articles/tu_aimeras_ton_prochain.html) (par Romain Gavache et Sandrine Landeau)
-* N°3 (décembre 2019) : [Un Dieu qui s'incarne, qu'est-ce que ça change ?] ({{site.url}}/articles/un_dieu_qui_s_incarne.html) (par Etienne Perrot)
+* N°3 (décembre 2019) : [Un Dieu qui s'incarne, qu'est-ce que ça change ?]({{site.url}}/articles/un_dieu_qui_s_incarne.html) (par Etienne Perrot)
 
 ## Journée d'étude 2019
 Notre journée d'étude 2019 s'est tenue le samedi 11 mai dernier, avec pour titre : Le sexe et l'autre.
