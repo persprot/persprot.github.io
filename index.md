@@ -9,6 +9,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°2 (novembre 2019) : [Tu aimeras ton prochain... même s'il est étranger ?]({{site.url}}/articles/tu_aimeras_ton_prochain.html) (par Romain Gavache et Sandrine Landeau)
 * N°3 (décembre 2019) : [Un Dieu qui s'incarne, qu'est-ce que ça change ?]({{site.url}}/articles/un_dieu_qui_s_incarne.html) (par Etienne Perrot)
 * N°4 (janvier 2020) : [Protestants, catholiques, orthodoxes... tous les mêmes ?]({{site.url}}/articles/tous_les_memes.html)  (par Jean-Yves Rémond)
+* N°5 (février 2020) : [Le péché, ça n'existe pas !]({{site.url}}/articles/le_peche.html)  (par Elisabeht Schenker)
 
 ## Journée d'étude 2019
 Notre journée d'étude 2019 s'est tenue le samedi 11 mai dernier, avec pour titre : Le sexe et l'autre.
