@@ -13,6 +13,10 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°6 (mars 2020) : [Il est mort pour nous... ça veut dire quoi ?]({{site.url}}/articles/il_est_mort_pour_nous.html)  (par Bernard Rordorf)
 * N°7 (avril 2020) : [L'Eglise, à quoi ça sert ?]({{site.url}}/articles/L_Eglise_a_quoi_ca_sert.html)  (par Marc Pernot)
 
+## Une image de la galaxie protestante romande
+C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
+Voici donc cette liste de trésors à (re)découvrir : [Sites protestants de Suisse romande]({{site.url}}/articles/liens.html)
+
 
 ## Qui est *Perspectives protestantes*&nbsp;?
 Notre, votre, revue est née en 2015. A l'origine du projet se trouve une équipe d'anciens étudiant.e.s des facultés de théologie romandes, de pasteurs des Eglises de Genève, de Neuchâtel et de Vaud, qui souhaitaient voir occupé l'espace laissé vacant par les *Cahiers protestants* et le *Bulletin du Centre protestant d'études*. Il s'agit pour nous de mener une réflexion théologique pour le peuple de l'Eglise, en débat avec la culture et les problèmes de société. 
