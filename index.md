@@ -10,12 +10,9 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°3 (décembre 2019) : [Un Dieu qui s'incarne, qu'est-ce que ça change ?]({{site.url}}/articles/un_dieu_qui_s_incarne.html) (par Etienne Perrot)
 * N°4 (janvier 2020) : [Protestants, catholiques, orthodoxes... tous les mêmes ?]({{site.url}}/articles/tous_les_memes.html)  (par Jean-Yves Rémond)
 * N°5 (février 2020) : [Le péché, ça n'existe pas !]({{site.url}}/articles/le_peche.html)  (par Elisabeth Schenker)
+* N°6 (mars 2020) : [Il est mort pour nous... ça veut dire quoi ?]({{site.url}}/articles/il_est_mort_pour_nous.html)  (par Bernard Rordorf)
+* N°7 (avril 2020) : [L'Eglise, à quoi ça sert ?]({{site.url}}/articles/L_Eglise_a_quoi_ca_sert.html)  (par Marc Pernot)
 
-## Journée d'étude 2019
-Notre journée d'étude 2019 s'est tenue le samedi 11 mai dernier, avec pour titre : Le sexe et l'autre.
-
-Trois orateurs se sont exprimés : José Morel Cinq-Mars, psychologue engagée dans la protection de l'enfance, Jean-Daniel Macchi, professeur d'Ancien Testament à la Faculté autonome de théologie de Genève, et Claude Habib, professeure de littérature française à la Sorbonne ([programme]({{ "/pdf/Programme Perspectives protestantes 11 mai.pdf" | absolute_url }})). Le n°10, à paraître cet automne, reprendra les textes de ces conférences, augmentés d'un texte inédit de Hans-Christoph Askani, professeur honoraire de théologie systématique.
- 
 
 ## Qui est *Perspectives protestantes*&nbsp;?
 Notre, votre, revue est née en 2015. A l'origine du projet se trouve une équipe d'anciens étudiant.e.s des facultés de théologie romandes, de pasteurs des Eglises de Genève, de Neuchâtel et de Vaud, qui souhaitaient voir occupé l'espace laissé vacant par les *Cahiers protestants* et le *Bulletin du Centre protestant d'études*. Il s'agit pour nous de mener une réflexion théologique pour le peuple de l'Eglise, en débat avec la culture et les problèmes de société. 
