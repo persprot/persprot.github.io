@@ -1,5 +1,5 @@
 ---
-title: Une liste de sites web
+title: Liens amis
 description: Des sites Internet représentatifs du web protestant réformé de Suisse romande, classés par catégories.
 date: 2020-04-20
 ---
