@@ -12,6 +12,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°5 (février 2020) : [Le péché, ça n'existe pas !]({{site.url}}/articles/le_peche.html)  (par Elisabeth Schenker)
 * N°6 (mars 2020) : [Il est mort pour nous... ça veut dire quoi ?]({{site.url}}/articles/il_est_mort_pour_nous.html)  (par Bernard Rordorf)
 * N°7 (avril 2020) : [L'Eglise, à quoi ça sert ?]({{site.url}}/articles/L_Eglise_a_quoi_ca_sert.html)  (par Marc Pernot)
+* N°8 (mai 2020) : [L'imagination au pouvoir]({{site.url}}/articles/L_imagination_au_pouvoir.html)  (par Patrick Baud)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
