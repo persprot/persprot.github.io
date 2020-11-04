@@ -15,7 +15,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°8 (mai 2020) : [L'imagination au pouvoir]({{site.url}}/articles/L_imagination_au_pouvoir.html)  (par Patrick Baud)
 * N°9 (juin 2020) : [Aimer, ça se commande pas !]({{site.url}}/articles/aimer_ca_se_commande_pas.html)  (par Alexandre Winter)
 * N°10 (octobre 2020) : [Croire ou penser, faut-il choisir ?]({{site.url}}/articles/coire_ou_penser_2020.html) (par Elisabeth Schenker)
-* N°11 (novembre 2020) : [Moi, mes parents sont riches, alors Jésus ne les aime pas !?] ({{site.url}}/articles/Jesus_prefere_t_il_les_pauvres.html) (par Sandrine Landeau)
+* N°11 (novembre 2020) : [Moi, mes parents sont riches, alors Jésus ne les aime pas !?]({{site.url}}/articles/Jesus_prefere_t_il_les_pauvres.html) (par Sandrine Landeau)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
