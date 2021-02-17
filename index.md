@@ -25,9 +25,6 @@ C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative
 Voici donc cette liste de trésors à (re)découvrir : [Sites protestants de Suisse romande]({{site.url}}/liens.html)
 
 ## Qui est *Perspectives protestantes*&nbsp;?
-Notre, votre, revue est née en 2015. A l'origine du projet se trouve une équipe d'anciens étudiant.e.s des facultés de théologie romandes, de pasteurs des Eglises de Genève, de Neuchâtel et de Vaud, qui souhaitaient voir occupé l'espace laissé vacant par les *Cahiers protestants* et le *Bulletin du Centre protestant d'études*. Il s'agit pour nous de mener une réflexion théologique pour le peuple de l'Eglise, en débat avec la culture et les problèmes de société. 
-
-Nous travaillons chaque année sur un thème différent (Le corps en 2015, La Parole en 2016, l'Espérance en 2017, le changement en 2018), introduit par un numéro qui paraît au début du printemps, traité plus à fond par une journée d'étude qui se tient en principe le dernier week-end d'avril, dont les conférences sont reprises dans le numéro d'automne.
-
-Vos suggestions pour améliorer cette formule ou pour de nouveaux thèmes à traiter dans les années à venir sont les bienvenues ! 
+L'association Perspectives Protestantes est née en 2015, porteuse d'une envie de faire de la théologie ensemble, en débat avec la culture et la société et au service du peuple de l'Eglise. A l'origine du projet se trouve une équipe d'anciens étudiant.e.s des facultés de théologie romandes, de pasteur.e.s des Eglises de Genève, de Neuchâtel et de Vaud, qui souhaitaient voir occupé l'espace laissé vacant par les *Cahiers protestants* et le *Bulletin du Centre protestant d'études*. La revue Perspectives protestantes a paru de 2015 à 2020, travaillant chaque année un thème différent (Le corps en 2015, La Parole en 2016, l'Espérance en 2017, le changement en 2018, la sexualité en 2019 et la filiation en 2020), introduit par un numéro qui paraît au début du printemps, traité plus à fond par une journée d'étude, dont les conférences étaient reprises dans le numéro d'automne. Tous les numéros sont disponibles sur ce site.
+Fin 2020, l'équipe de Perspectives protestantes a décidé d'arrêter la parution papier, et de poursuivre l'aventure sous d'autres formes, qui sont en cours de réflexion et de développement. A bientôt donc, pour la suite de l'aventure ! 
 
