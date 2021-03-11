@@ -19,6 +19,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°12 (décembre 2020) : [De l'Eden à la crèche, à quel Dieu les femmes de la Bible font-elles confiance ?]({{site.url}}/articles/dieu_des_femmes.html) (par Sandrine Landeau)
 * N°13 (janvier 2021) : [Le péché existe, j'y ai succombé !]({{site.url}}/articles/le_peche_existe.html) (par Jean-Jacques de Rham)
 * N°14 (février 2021) : [L'Eglise a-t-elle un avenir ?]({{site.url}}/articles/L_Eglise_a_t_elle_un_avenir.html) (par Alexandre Winter)
+* N°15 (mars 2021) : [Peut-on sérieusement croire à la résurrection ?]({{site.url}}/articles/peut_on_croire_a_la_resurrection.html)(par Kevin Buton-Maquet)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
