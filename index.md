@@ -23,7 +23,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°16 (avril 2021) : [Dieu parle-t-il dans la Bible ?]({{site.url}}/articles/dieu_parle_t_il_dans_la_bible.html)(par Jean-Yves Rémond)
 * N°17 (mai 2021) : [Tout est grâce ?]({{site.url}}/articles/tout_est_grace.html)(par Laurence Mottier)
 * N°18 (juin 2021) : [Bénir, à quoi bon ?]({{site.url}}/articles/benir_a_quoi_bon.html) (par Elisabeth Parmentier)
-* N°19 (octobre 2021 : [De quoi Dieu est-il le nom ?]({{site.url}}/articles/de_quoi_Dieu_est-il_le_nom.html) (par Bernard Rordorf)
+* N°19 (octobre 2021 : [De quoi Dieu est-il le nom ?]({{site.url}}/articles/de_quoi_dieu_est-il_le_nom.html) (par Bernard Rordorf)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
