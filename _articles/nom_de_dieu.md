@@ -7,8 +7,6 @@ categories: [perspective_a_la_foi]
 layout: perspective_a_la_foi
 ---
 
-**Nom de Dieu ! **
-
 Pour nous chrétiens, il n’en est qu’Un, au fond, qui pourrait dire quelque chose qui tienne quant à la manière de nommer Dieu. Il se trouve pourtant que, si Jésus fait
 bien sûr référence au Nom de Celui qu’il appelle « mon Père », « Abba (papa) » « Votre Père du ciel », « Seigneur », Il n’en dévoile pas une lettre, pas une syllabe, pas
 un son. 
