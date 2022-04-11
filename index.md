@@ -26,7 +26,9 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°19 (octobre 2021) : [De quoi Dieu est-il le nom ?]({{site.url}}/articles/de_quoi_dieu_est-il_le_nom.html) (par Bernard Rordorf)
 * N°20 (novembre 2021) : [Nom de Dieu !]({{site.url}}/articles/nom_de_dieu.html) (par Elisabeth Schenker)
 * N°21 (décembre 2021) : [Au nom de Dieu]({{site.url}}/articles/au_nom_de_dieu.html) (par Jean-Jacques de Rham)
-*
+* N°22 (février 2022) : [Moi je suis la vérité]({{site.url}}/articles/moi_je_suis_la_verite.html) (par Jean-Yves Rémond)
+* N°23 (mars 2022) : [Crois-tu cela ?]({{site.url}}/articles/crois_tu_cela.html) (par Alexandre Winter)
+* N°24 (avril 2022) : [Je ne fais pas le bien que je veux, mais je fais au contraire le mal que je ne veux pas]({{site.url}}/articles/le_bien_que_je_veux.html) (par Elisabeth Parmentier)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
