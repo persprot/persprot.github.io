@@ -1,7 +1,7 @@
 ---
 title: Faut-il brûler les chrétiens du dimanche ?
 author: Kévin Buton-Maquet
-date: 2022-07-01
+date: 2022-06-01
 mois_annee: juin 2022
 categories: [perspective_a_la_foi]
 layout: perspective_a_la_foi
