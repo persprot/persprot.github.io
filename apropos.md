@@ -26,7 +26,7 @@ BIC : POFICHBEXXX<br>
 (la cotisation finance la journée annuelle d'études)
 
 ### Comité de rédaction
-André Assimacopoulos, France Bossuet, Kevin Buton-Maquet, Jean-Jacques de Rham, Sandrine Landeau, Laurence Mottier, Marc Pernot, Jean-Yves Rémond, Bernard Rordorf, Elisabeth Schenker, Alexandre Winter
+Kevin Buton-Maquet, Jean-Jacques de Rham, Sandrine Landeau, Laurence Mottier, Jean-Yves Rémond, Bernard Rordorf, Elisabeth Schenker, Alexandre Winter
 
 ### Webmaster
 Sandrine Landeau
