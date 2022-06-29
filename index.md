@@ -30,6 +30,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°23 (mars 2022) : [Crois-tu cela ?]({{site.url}}/articles/crois_tu_cela.html) (par Alexandre Winter)
 * N°24 (avril 2022) : [Je ne fais pas le bien que je veux, mais je fais au contraire le mal que je ne veux pas]({{site.url}}/articles/le_bien_que_je_veux.html) (par Elisabeth Parmentier)
 * N°25 (mai 2022) : [Une présence de Dieu au quotidien ?]({{site.url}}/articles/Presence_au_quotidien.html) (par Laurence Mottier)
+* N°26 (juin 2022) : [Faut-il brûler les chrétiens du dimanche ?]({{site.url}}/articles/Les_chretiens_du_dimanche.html) (par Kévin Buton-Maquet)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
