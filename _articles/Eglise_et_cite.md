@@ -1,5 +1,5 @@
 ---
-title: Dans la dynamique du règne de Dieu
+title: L'Eglise et le monde ont-ils à voir ensemble ?
 author: Alexandre Winter
 date: 2023-02-01
 mois_annee: février 2023
@@ -7,7 +7,7 @@ categories: [perspective_a_la_foi]
 layout: perspective_a_la_foi
 ---
 
-**L'Eglise et la Cité**
+**L'Eglise et le monde ont-ils à voir ensemble ?**
 
 Longue et difficile histoire que celle des rapports entre cette institution que nous désignons sous le nom d’Eglise – qui est aussi beaucoup plus, et aussi autre
 chose qu’une institution – et la société civile, ce que nous nommons Etat ou Cité, ce que la Bible dans l’Evangile de Jean nomme « monde », bien qu’ici l’usage du
