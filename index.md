@@ -34,7 +34,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°27 (octobre 2022) : [Engagez-vous, engagez-vous qu'ils disaient!]({{site.url}}/articles/engagez-vous.html) (par Sandrine Landeau)
 * N°28 (novembre 2022) : [L'Eglise doit-elle s'engager ?]({{site.url}}/articles/Eglise-engagee.html) (par Jean-Yves Rémond)
 * N°29 (décembre 2022) : [Dans la dynamique du règne de Dieu]({{site.url}}/articles/Regne_de_Dieu.html) (par Bernard Rordorf)
-* N°30 (février 2023) : [L'Eglise et la cité]({{site.url}}/articles/Eglise_et_cite.html) (par Alexandre Winter)
+* N°30 (février 2023) : [L'Eglise et le monde ont-ils à voir ensemble ?]({{site.url}}/articles/Eglise_et_cite.html) (par Alexandre Winter)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
