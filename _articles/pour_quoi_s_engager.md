@@ -1,5 +1,5 @@
 ---
-title: Egagez-vous, engagez-vous... pas en faveur de quoi ?
+title: Egagez-vous, engagez-vous... mais en faveur de quoi ?
 author: Sandrine Landeau
 date: 2023-06-01
 mois_annee: juin 2023
