@@ -1,8 +1,8 @@
 ---
-title: La justice comme espérance
-author: Elisabeth Schenker
-date: 2023-09-01
-mois_annee: septembre 2023
+title: L'Eglise, à quoi ça sert ?
+author: Marc Pernot
+date: 2020-04-01
+mois_annee: avril 2019
 categories: [perspective_a_la_foi]
 layout: perspective_a_la_foi
 ---
