@@ -39,6 +39,8 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 * N°32 (avril 2023) : [Jésus a-t-il voulu agir en politique ?]({{site.url}}/articles/jesus_et_la_politique.html) (par Bernard Rordorf)
 * N°33 (juin 2023) : [Engagez-vous, engagez-vous... mais en faveur de quoi ?]({{site.url}}/articles/pour_quoi_s_engager.html) (par Sandrine Landeau)
 * N°34 (septembre 2023) : [La justice comme espérance]({{site.url}}/articles/Justice_esperance.html) (par Elisabeth Schenker)
+* N°35 (octobre 2023) : [Le Verbe au-delà du mal]({{site.url}}/articles/Verbe_au_dela_du_mal.html) (par Jean-Yves Rémond)
+* N°36 (novembre 2023) : [Que faisons-nous de nos injustices ?]({{site.url}}/articles/nos_injustices.html) (par Sandrine Landeau)
 
 ## Une image de la galaxie protestante romande
 C'est ensemble qu'on est plus forts ! C'est la conviction qui guide l'initiative de Marc Pernot (EPG) et Nicolas Friedli (EREN) : pour améliorer le référencement des différents sites de la galaxie protestante de Suisse romande, ils ont listé les sites ressources, et nous invitent à l'enrichir, et à la publier sur nos sites, pour activer la force du réseau (un site qui est en lien avec d'autres est plus "visible" sur la toile, plus fiable). 
