@@ -5,7 +5,7 @@ layout: home
 ## Une perspective à la foi
 L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes pour vous proposer une série mensuelle, intitulée *Une perspective à la foi*, destinée à soutenir la réflexion théologique des membres et collaborateurs de l'EPG, et plus largement de toute personne intéressée par les questions qui seront traitées. 
 
-Pour vous abonner : [formulaire d'inscription]({{site.url}}/https://epg.ch/pages/formulaire-dinscription-perspective-a-la-foi/)
+Pour vous abonner : [formulaire d'inscription](https://epg.ch/pages/formulaire-dinscription-perspective-a-la-foi/)
 
 Pour retrouver les numéros passés (du plus récent au plus ancien) : 
 
