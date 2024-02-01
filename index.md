@@ -9,7 +9,7 @@ Pour vous abonner : [formulaire d'inscription](https://epg.ch/pages/formulaire-d
 
 Pour retrouver les numéros passés (du plus récent au plus ancien) : 
 
-*N°38 (février 2024) : [Justice économique : pour qui ? pour quand ? qui en paiera le prix ?]({{site.url}}/articles/justice_economique.html) (par Etienne Perrot)
+* N°38 (février 2024) : [Justice économique : pour qui ? pour quand ? qui en paiera le prix ?]({{site.url}}/articles/justice_economique.html) (par Etienne Perrot)
 * N°37 (décembre 2023) : [Rendre justice - Au-delà d'un jugement, recréer des liens]({{site.url}}/articles/Rendre_justice.html) (par Maurice Gardiol)
 * N°36 (novembre 2023) : [Que faisons-nous de nos injustices ?]({{site.url}}/articles/nos_injustices.html) (par Sandrine Landeau)
 * N°35 (octobre 2023) : [Le Verbe au-delà du mal]({{site.url}}/articles/Verbe_au_dela_du_mal.html) (par Jean-Yves Rémond)
