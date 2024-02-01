@@ -1,5 +1,5 @@
 ---
-title: Justice économique : pour qui ? pour quand ? à quel prix ?
+title: Justice économique
 author: Père Etienne Perrot sj
 date: 2024-02-01
 mois_annee: Février 2024
