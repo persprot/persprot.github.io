@@ -1,6 +1,6 @@
 ---
 title: Quelle justice climatique pour notre monde ?
-author: Benoït Ischer
+author: Benoît Ischer
 date: 2024-03-01
 mois_annee: mars 2024
 categories: [perspective_a_la_foi]
