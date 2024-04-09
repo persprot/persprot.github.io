@@ -8,6 +8,7 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 Pour vous abonner : [formulaire d'inscription](https://epg.ch/pages/formulaire-dinscription-perspective-a-la-foi/)
 
 Pour retrouver les numéros passés (du plus récent au plus ancien) : 
+* N°40 (avril 2024) : [Unité ou diversité, faut-il choisir ?]({{site.url}}/articles/unite_ou_diversite.html) (par K. Luc Bulundwe)
 
 * N°39 (mars 2024) : [Quelle justice climatique pour notre monde ?]({{site.url}}/articles/justice_climatique.html) (par Benoît Ischer)
 
