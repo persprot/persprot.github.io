@@ -9,6 +9,7 @@ layout: perspective_a_la_foi
 
 
 **Liberté et Serf-arbitre, Érasme et Luther**
+
 Le débat qui opposa Érasme et Luther pourrait nous sembler bien dépassé aujourd’hui, comme l’une de ces reliques de
 l’histoire que l’on évoque sans être vraiment concerné. Il fut pourtant l’un des temps forts d’une opposition théologique
 radicale entre la nouvelle Église protestante, dès sa naissance, et l’Église catholique romaine. Et il n’est pas anodin que
