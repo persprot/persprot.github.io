@@ -1,5 +1,5 @@
 ---
-title: La liberté, pour quoi faire
+title: La liberté, pour quoi faire ?
 author: Bernard Rordorf
 date: 2024-12-01
 mois_annee: décembre 2024
