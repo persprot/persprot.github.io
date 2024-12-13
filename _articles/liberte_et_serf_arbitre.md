@@ -1,7 +1,7 @@
 ---
 title: Liberté et serf-arbitre, Erasme et Luther
 author: Jean-Yves Rémond
-date: 2024-10-31
+date: 2024-11-01
 mois_annee: novembre 2024
 categories: [perspective_a_la_foi]
 layout: perspective_a_la_foi
