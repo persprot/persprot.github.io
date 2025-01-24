@@ -19,7 +19,7 @@ tente vainement de limiter l’immigration. Vainement, car, comme le résume Yve
 Les justifications théoriques de la libre circulation ne manquent certes pas. Mais la théorie ne fait pas le poids face
 à ses limites pratiques, anthropologiques et même théologiques. 
 
-**J’aimerais vivre en Théorie, car en Théorie il n’y a pas de problème*
+*J’aimerais vivre en Théorie, car en Théorie il n’y a pas de problème*
 	
 	La théorie est fascinante, et sa cohérence soutient une générosité sans limite. Elle sous-tend tous les accords de 
  Libre-échange. Le marché et la concurrence y jouent le rôle de la Providence : chacun, ne cherchant que son intérêt 
@@ -31,7 +31,7 @@ Les justifications théoriques de la libre circulation ne manquent certes pas. M
  sociale ou militaire qui n’ont rien à voir avec le calcul des économistes. Même sur le plan strictement économique, ce 
  calcul ne tient aucun compte de la façon dont sera réparti le surplus de richesses annoncé par la théorie.
  
-**Enjeux pour l’être humain*
+*Enjeux pour l’être humain*
 	
 La dimension anthropologique et humanitaire disparaît derrière la liberté du commerce et de l’industrie coulée dans cette 
 logique individuelle. Car la liberté de circulation des personnes et des capitaux rabaisse toutes les motivations humaines
@@ -46,7 +46,7 @@ contradictions sociopolitiques inhérentes à toute vie humaine, contradictions 
 entre les solidarités multiples : famille, équipe de travail, région, pays, ce qui biaise même les relations économiques 
 internationales.
 
-	Au cœur du problème, la liberté de circulation des personnes et des capitaux, posée comme un principe absolu, met 
+Au cœur du problème, la liberté de circulation des personnes et des capitaux, posée comme un principe absolu, met 
  hors-jeux l’hospitalité, avec ce qu’elle suppose de gratuité. Cette liberté étouffe alors la conscience humaine, et rejette
  la Grâce dans l’univers fumeux des abstractions inessentielles ; alors que – l’expérience de l’incarnation en témoigne – la
  Grâce surgit toujours dans la conscience chahutée par les contradictions de toute vie en société.
