@@ -8,9 +8,10 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 Pour vous abonner : [formulaire d'inscription](https://epg.ch/pages/formulaire-dinscription-perspective-a-la-foi/)
 
 Pour retrouver les numéros passés (du plus récent au plus ancien) : 
+* N°46 (janvier 2025) : [Laiasser faire les personnes, laisser passer les capitaux ?]({{site.url}}/articles/liberte_capitaux.html) (par Etienne Perrot)
 * N°45 (décembre 2024) : [La liberté, pour quoi faire ?]({{site.url}}/articles/la_liberte_pour_quoi_faire.html) (par Bernard Rordorf)
   
-* N°44 (novembre 2025) : [Liberté et serf-arbitre, Erasme et Luther]({{site.url}}/articles/liberte_et_serf_arbitre.html) (par Jean-Yves Rémond)
+* N°44 (novembre 2024) : [Liberté et serf-arbitre, Erasme et Luther]({{site.url}}/articles/liberte_et_serf_arbitre.html) (par Jean-Yves Rémond)
   
 * N°43 (spetembre 2024) : [Je suis l'Eternel ton Dieu, qui t'ai libéré d'Egypte]({{site.url}}/articles/Liberte.html) (par Sandrine Landeau)
 
