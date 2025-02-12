@@ -2,7 +2,7 @@
 title: Libres de croire, libres pour croire
 author: Alexandre Winter
 date: 2025-02-01
-mois_annee: février 2024
+mois_annee: février 2025
 categories: [perspective_a_la_foi]
 layout: perspective_a_la_foi
 ---
