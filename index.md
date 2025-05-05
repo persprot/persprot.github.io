@@ -8,7 +8,11 @@ L’Église Protestante de Genève (EPG) s'associe à Perspectives protestantes 
 Pour vous abonner : [formulaire d'inscription](https://epg.ch/pages/formulaire-dinscription-perspective-a-la-foi/)
 
 Pour retrouver les numéros passés (du plus récent au plus ancien) : 
+
+* N°49 (mai 2025) : [Quelle liberté pour le chrétien ?]({{site.url}}/articles/Quelle_liberte_pour_le_chretien.html) (par Hans-Christoph Askani)
+
 * N°48 (avril 2025) : [Tout est permis]({{site.url}}/articles/tout_est_permis.html) (par Elisabeth Schenker)
+
 * N°47 (février 2025) : [Libres de croire, libres pour croire]({{site.url}}/articles/Libres_de_croire_et_pour_croire.html) (par Alexandre Winter)
 
 * N°46 (janvier 2025) : [Laisser faire les personnes, laisser passer les capitaux ?]({{site.url}}/articles/liberte_capitaux.html) (par Etienne Perrot)
