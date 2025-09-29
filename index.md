@@ -9,7 +9,7 @@ Pour vous abonner : [formulaire d'inscription](https://epg.ch/pages/formulaire-d
 
 Pour retrouver les numéros passés (du plus récent au plus ancien) : 
 
-*n°51 (octobre 2025) : [Jacques Ellul et ses Combats pour la liberté]({{site.url}}/articles/Ellul.html) (par Elisabeth Schenker)
+* N°51 (octobre 2025) : [Jacques Ellul et ses Combats pour la liberté]({{site.url}}/articles/Ellul.html) (par Elisabeth Schenker)
 
 * N°50 (juin 2025) : [Timshel ou la liberté du choix]({{site.url}}/articles/grace_et_liberte.html) (par Jean-Yves Rémond)
 
